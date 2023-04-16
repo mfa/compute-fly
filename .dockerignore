@@ -1,0 +1,8 @@
+# ignore everything
+**
+
+# except
+!compute.py
+!start.sh
+!*json
+!requirements.txt
