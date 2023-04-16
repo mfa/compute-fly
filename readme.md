@@ -1,5 +1,5 @@
 ## use fly.io machines for compute
 
-disclaimer: this is maybe not the intended use for the fly architecture!
+Disclaimer: this is maybe not the intended way to use the [fly.io machines infrastructure](https://fly.io/docs/machines/)!
 
-for setup see blog post: FIXME
+see blog post: https://madflex.de/run-a-compute-job-on-fly-io/
